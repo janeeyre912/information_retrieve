@@ -1,0 +1,11 @@
+D:\Users\janel\anaconda3\python.exe "D:/0.Information Retrieval/Project/P4/P4/extract_html_text.py"
+n_samples: 64, n_features: 4748
+Top terms per cluster:
+Cluster 0: school student concordia servic academ calendar graduat univers art scienc studi campu class centr colleg cours event resourc link health
+Cluster 1: tuition loan fee school scholarship servic financi student concordia budget bank bursari 2022 academ rate univers aid calendar pay account
+Cluster 2: school concordia servic student calendar scienc graduat academ univers art studi class comput colleg research 2022 gina codi engin news
+(1172.0, 55.80952380952381, [68.0, 54.0, 40.0, 43.0, 177.0, 63.0, 51.0, 47.0, 62.0, 31.0, 62.0, 49.0, 71.0, 44.0, 51.0, 47.0, 41.0, 34.0, 44.0, 42.0, 51.0])
+(108.0, 54.0, [64.0, 44.0])
+(2798.0, 68.2439024390244, [37.0, 49.0, 54.0, 66.0, 24.0, 82.0, 48.0, 55.0, 43.0, 60.0, 110.0, 111.0, 44.0, 81.0, 41.0, 184.0, 73.0, 56.0, 41.0, 65.0, 170.0, 44.0, 115.0, 64.0, 39.0, 53.0, 50.0, 36.0, 38.0, 28.0, 60.0, 93.0, 84.0, 48.0, 40.0, 71.0, 55.0, 70.0, 55.0, 64.0, 197.0])
+
+Process finished with exit code 0

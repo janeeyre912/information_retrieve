@@ -1,0 +1,17 @@
+D:\Users\janel\anaconda3\python.exe "D:/0.Information Retrieval/Project/P4/P4/extract_html_text.py"
+n_samples: 64, n_features: 4748
+Top terms per cluster:
+Cluster 0: dec p.m. 2 3 4 school 1 oral – apprentic exam phd concordia servic student a.m. day yr. 14 wednesday
+Cluster 1: school student concordia servic calendar academ graduat univers scienc art studi class colleg campu event cours centr resourc gina codi
+Cluster 2: engin softwar school comput scienc beng student option csse cours section servic program bachelor concordia elect calendar sequenc gina codi
+Cluster 3: concordia 2022 school citi research student servic 2021 calendar institut scienc ’ univers novemb studi campu art graduat academ sustain
+Cluster 4: cybersecur network consortium cyber canadian concordia ” “ univers innov debbabi research lead train school director economi mourad ncc not-for-profit
+Cluster 5: dr. system network machin process antenna model wireless signal control analysi imag electr energi ece video circuit algorithm electromagnet comput
+(175.0, 58.333333333333336, [41.0, 64.0, 70.0])
+(2786.0, 60.56521739130435, [37.0, 68.0, 49.0, 54.0, 40.0, 54.0, 66.0, 24.0, 43.0, 48.0, 177.0, 44.0, 81.0, 63.0, 56.0, 51.0, 47.0, 64.0, 170.0, 44.0, 53.0, 50.0, 62.0, 36.0, 38.0, 28.0, 60.0, 93.0, 84.0, 48.0, 71.0, 31.0, 62.0, 49.0, 55.0, 71.0, 51.0, 47.0, 64.0, 41.0, 34.0, 197.0, 44.0, 44.0, 42.0, 51.0])
+(352.0, 70.4, [43.0, 41.0, 184.0, 40.0, 44.0])
+(590.0, 73.75, [82.0, 55.0, 60.0, 111.0, 73.0, 115.0, 39.0, 55.0])
+(110.0, 110.0, [110.0])
+(65.0, 65.0, [65.0])
+
+Process finished with exit code 0
